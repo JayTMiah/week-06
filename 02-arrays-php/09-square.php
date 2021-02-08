@@ -2,9 +2,7 @@
 
 require __DIR__ . "/vendor/autoload.php";
 
-function squares($a, $b, $c, $d, $e) {
-
-}
+function squares()
 
 // … your function here
 
