@@ -12,6 +12,16 @@ class Phone
         $this->make = $make;
         $this->model = $model;
     }
+
+    public function make()
+    {
+        return $this->make;
+    }
+
+    public function model()
+    {
+        return $this->model;
+    }
 }
 // ... your class here
 
